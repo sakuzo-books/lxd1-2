@@ -6,7 +6,7 @@ https://www.amazon.co.jp/dp/COMING_SOON
 
 # 更新履歴
 
-- [更新情報](/history.md)
+- 2022/1/xx 初版 リリース
 
 # 正誤情報
 
